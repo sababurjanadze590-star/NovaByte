@@ -7,7 +7,9 @@
 ## Integrantes
 
 - **Saba Burjanadze**
-- **[Nombre y apellidos de tu compañero/a]**
+- **Daviti Gvaramia**
+- **Nabil Aisatin**
+- **Marcos Guillen**
 
 > *"Tecnología que conecta tu negocio."*
 
